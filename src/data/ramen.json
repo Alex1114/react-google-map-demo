@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "RAMEN_ID": 0,
+        "NAME": "勝王",
+        "ADDRESS": "",
+        "FACILITY_T": "",
+        "FACILITY_1": "",
+        "ACCESSCTRL": "",
+        "ACCESSIBLE": "",
+        "OPEN": null,
+        "NOTES": "",
+        "MODIFIED_D": "",
+        "CREATED_DA": null,
+        "FACILITY": "",
+        "FACILITY_F": "",
+        "DESCRIPTIO": "104台北市中山區林森北路306號",
+        "DESCRIPT_1": "",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.52540042859148, 25.05616286768148]
+      }
+    }, 
+    {
+      "type": "Feature",
+      "properties": {
+        "RAMEN_ID": 1,
+        "NAME": "一蘭 台灣台北本店",
+        "ADDRESS": "",
+        "FACILITY_T": "",
+        "FACILITY_1": "",
+        "ACCESSCTRL": "",
+        "ACCESSIBLE": "",
+        "OPEN": null,
+        "NOTES": "",
+        "MODIFIED_D": "",
+        "CREATED_DA": null,
+        "FACILITY": "",
+        "FACILITY_F": "",
+        "DESCRIPTIO": "110台北市信義區松仁路97號",
+        "DESCRIPT_1": "",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.56928068545058, 25.036494073406256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RAMEN_ID": 2,
+        "NAME": "麵屋吉光",
+        "ADDRESS": "",
+        "FACILITY_T": "",
+        "FACILITY_1": "",
+        "ACCESSCTRL": "",
+        "ACCESSIBLE": "",
+        "OPEN": null,
+        "NOTES": "",
+        "MODIFIED_D": "",
+        "CREATED_DA": null,
+        "FACILITY": "",
+        "FACILITY_F": "",
+        "DESCRIPTIO": "300新竹市東區關新東路138號1樓",
+        "DESCRIPT_1": "",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.01958725002193, 24.783930078737356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RAMEN_ID": 3,
+        "NAME": "Hiro'sらあ麵Kitchen 竹北店",
+        "ADDRESS": "",
+        "FACILITY_T": "",
+        "FACILITY_1": "",
+        "ACCESSCTRL": "",
+        "ACCESSIBLE": "",
+        "OPEN": null,
+        "NOTES": "",
+        "MODIFIED_D": "",
+        "CREATED_DA": null,
+        "FACILITY": "",
+        "FACILITY_F": "",
+        "DESCRIPTIO": "30264新竹縣竹北市文義街237號",
+        "DESCRIPT_1": "",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.0134704206188, 24.831171933794298]
+      }
+    }
+  ]
+}
